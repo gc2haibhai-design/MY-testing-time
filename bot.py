@@ -6,7 +6,7 @@ import sqlite3
 from datetime import datetime, timedelta
 
 # --- CONFIGURATION ---
-TOKEN = '8617013378:AAF0hzLSsl0bc34KRg5HWMtg3cTTVj7daRI'
+TOKEN = '8415253056:AAFCqKD7rU6nYpkKT7mLJjOPAU5aLBj9W1E'
 ADMIN_ID = 8097952475  # <--- Apna real Telegram ID yahan dalein
 API_KEY = "663070-bqV6U2VpqBycMiXgB80rmFONZV9sOki3"
 
